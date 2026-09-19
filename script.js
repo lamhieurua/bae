@@ -425,7 +425,7 @@ function revealLoveNote() {
 // --- CẤU HÌNH NHẬN THÔNG BÁO KẾT QUẢ VỀ CHO BẠN ---
 const NOTIFICATION_CONFIG = {
   // Thay địa chỉ email của bạn vào đây (ví dụ: lamhieu@gmail.com)
-  email: "your_email_here@gmail.com",
+  email: "hieurua1900@gmail.com",
   enableLocalLog: true
 };
 
